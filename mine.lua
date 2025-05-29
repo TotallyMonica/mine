@@ -967,7 +967,7 @@ local slots = (function()
 		local desc = {
 			[CHEST_SLOT] = "Chests",
 			[BLOCK_SLOT] = "Cobblestone",
-			[FUEL_SLOT] = "Fuel (only coal supported)",
+			[FUEL_SLOT] = "Fuel (only coal and charcoal supported)",
 			[FUEL_CHEST_SLOT] = "Fuel Entangled Chest",
 			[CHUNK_LOADER_SLOT] = "2 Chunk Loaders",
 		}
